@@ -16,7 +16,6 @@ A data science project that applies **fuzzy logic** to customer review analysis 
 
 - `main.py` — Main script for fuzzy logic analysis and visualization.
 - `ecommerce_product_reviews_dataset.csv` — Dataset containing product reviews.
-- `fuzzy_results_full.csv` - Output of the sentiment analysis.
 - `README.md` — Project documentation
 
 ## 📊 Citing the Dataset
