@@ -1,4 +1,4 @@
-# Fuzzy Logic Satisfaction Analyzer
+# ReviewSense - Fuzzy Logic Satisfaction Analyzer
 
 A data science project that applies **fuzzy logic** to customer review analysis for e-commerce products. This project demonstrates how linguistic ambiguity and real-world customer feedback can be classified in a human-like way using interpretable, rule-based fuzzy logic.
 
